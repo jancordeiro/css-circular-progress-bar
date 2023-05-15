@@ -1,2 +1,3 @@
-# css-circular-progress-bar
-CSS Only Circular Progress Bar
+# CSS Only Circular Progress Bar
+---
+A CSS Only Circular Progress Bar without JS.
